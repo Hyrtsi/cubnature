@@ -1,5 +1,7 @@
 #include <math.h>
 
+#define M_PI 3.14159265358979
+
 float cosine_interpolation(float a, float b, float x)
 {
     float ft = x * M_PI;
