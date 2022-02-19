@@ -13,3 +13,5 @@ gl3w are submodules with their respective licenses.
 
 Building 
 cd build && cmake -DCMAKE_BUILD_TYPE=Release .. && make -j9 && cp ../sync/*.track . && ./cubnature
+
+[](screenshot.png)
